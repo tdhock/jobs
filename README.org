@@ -1,0 +1,14 @@
+| where             | app         | refs       | start       |
+|-------------------+-------------+------------+-------------|
+| VT CS             | 15 Nov 2015 |            |             |
+| VT Stats          | 1 Dec 2015  |            | Aug 2016    |
+| Berkeley Biostats | 1 Dec 2015  | 1 Dec 2015 | 1 July 2016 |
+| Tulane            | 1 Jan 2016  | 1 Jan 2016 | Fall 2016   |
+| Berkeley EECS     | 4 Jan 2016  | 8 Jan 2016 | 1 July 2016 |
+| MS Research       |             |            |             |
+| Tesla             |             |            |             |
+| GitHub            |             |            |             |
+| Google            |             |            |             |
+| Facebook          |             |            |             |
+| Archive.org       |             |            |             |
+| Jean d'Alembert   | 31 dec 2016 |            |             |
