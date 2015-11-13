@@ -3,9 +3,12 @@
 | VT CS             | 15 Nov 2015 |            |             |
 | VT Stats          | 1 Dec 2015  |            | Aug 2016    |
 | Berkeley Biostats | 1 Dec 2015  | 1 Dec 2015 | 1 July 2016 |
+| [[https://apol-recruit.ucsd.edu/apply/JPF00953][UCSD biostats]]     | 2 Dec 2015  |            |             |
+| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA math+stats]]   | 15 Dec 2015 |            |             |
+| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB CS]]           | 15 Dec 2015 |            |             |
 | Tulane            | 1 Jan 2016  | 1 Jan 2016 | Fall 2016   |
 | Berkeley EECS     | 4 Jan 2016  | 8 Jan 2016 | 1 July 2016 |
-| MS Research       |             |            |             |
+| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]]   | 1 Jan 2016  |            |             |
 | Tesla             |             |            |             |
 | GitHub            |             |            |             |
 | Google            |             |            |             |
