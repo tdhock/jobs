@@ -2,7 +2,7 @@
 
 | University | Department        | Job title            | app         | refs       |
 |------------+-------------------+----------------------+-------------+------------|
-| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science  | Tenure-track faculty | 1 Nov 2015  |            |
+| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science  | Tenure-track faculty | SUBMITTED   |            |
 | [[https://www.uvmjobs.com/postings/16972][Vermont]]    | Computer Science  | Assistant Professor  | SUBMITTED   | ?          |
 | [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math        | Assistant Professor  | SUBMITTED   | waiting.   |
 | [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | Elec Eng Comp Sci | Assistant Professor  | SUBMITTED   | 8 Jan 2016 |
