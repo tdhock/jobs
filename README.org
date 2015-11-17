@@ -1,19 +1,19 @@
 *** Prof jobs
 
-| University | Department       | Job title            | app         | refs       |
-|------------+------------------+----------------------+-------------+------------|
-| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science | Tenure-track faculty | 1 Nov 2015  |            |
-| [[https://www.uvmjobs.com/postings/16972][Vermont]]    | Computer Science | Assistant Professor  | SUBMITTED   | ?          |
-| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math       | Assistant Professor  | SUBMITTED   | waiting.   |
-| [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | EECS             | Assistant Professor  | SUBMITTED   | 8 Jan 2016 |
-| [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][Vermont]]    | Statistics       | Assistant Professor  | 1 Dec 2015  |            |
-| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics    | Assistant Professor  | 1 Dec 2015  | 1 Dec 2015 |
-| [[https://www.uvmjobs.com/postings/17556][Vermont]]    | Electrical Eng.  | Assistant Professor  | 15 Dec 2015 |            |
-| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science | Assistant Professor  | 15 Dec 2015 |            |
-| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics       | Assistant Professor  | 15 Dec 2015 |            |
-| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science | Assistant Professor  | 1 Jan 2016  |            |
-| [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane]]     | Computer Science | Assistant Professor  | 1 Jan 2016  | 1 Jan 2016 |
-| [[http://main.hercjobs.org/jobs/6678395/][UCSF]]       | Quantitative Bio | Assistant Professor  | ???         |            |
+| University | Department        | Job title            | app         | refs       |
+|------------+-------------------+----------------------+-------------+------------|
+| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science  | Tenure-track faculty | 1 Nov 2015  |            |
+| [[https://www.uvmjobs.com/postings/16972][Vermont]]    | Computer Science  | Assistant Professor  | SUBMITTED   | ?          |
+| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math        | Assistant Professor  | SUBMITTED   | waiting.   |
+| [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | Elec Eng Comp Sci | Assistant Professor  | SUBMITTED   | 8 Jan 2016 |
+| [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][Vermont]]    | Statistics        | Assistant Professor  | 1 Dec 2015  |            |
+| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics     | Assistant Professor  | 1 Dec 2015  | 1 Dec 2015 |
+| [[https://www.uvmjobs.com/postings/17556][Vermont]]    | Electrical Eng.   | Assistant Professor  | 15 Dec 2015 |            |
+| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science  | Assistant Professor  | 15 Dec 2015 |            |
+| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics        | Assistant Professor  | 15 Dec 2015 |            |
+| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science  | Assistant Professor  | 1 Jan 2016  |            |
+| [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane]]     | Computer Science  | Assistant Professor  | 1 Jan 2016  | 1 Jan 2016 |
+| [[http://main.hercjobs.org/jobs/6678395/][UCSF]]       | Quantitative Bio  | Assistant Professor  | ???         |            |
 
 *** Industry jobs
 
