@@ -1,21 +1,30 @@
-| where             | app         | refs       | start       |
-|-------------------+-------------+------------+-------------|
-| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA CS]]           | 1 Nov 2015  |            |             |
-| UVM CS            | SUBMITTED   | ?          |             |
-| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA math+stats]]   | SUBMITTED   | waiting.   |             |
-| [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley EECS]]     | SUBMITTED   | 8 Jan 2016 | 1 July 2016 |
-| [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][UVM stats]]         | 1 Dec 2015  |            | Aug 2016    |
-| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley biostats]] | 1 Dec 2015  | 1 Dec 2015 | 1 July 2016 |
-| [[https://apol-recruit.ucsd.edu/apply/JPF00953][UCSD biostats]]     | 2 Dec 2015  |            |             |
-| [[http://www.genomecanada.ca/en/portfolio/research/2015-bcb-competition.aspx][Bioinf grant]]      | 11 Dec 2015 |            |             |
-| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB CS]]           | 15 Dec 2015 |            |             |
-| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]               | 15 Dec 2015 |            |             |
-| [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane CS]]         | 1 Jan 2016  | 1 Jan 2016 | Fall 2016   |
-| [[http://main.hercjobs.org/jobs/6678395/][UCSF]]              |             |            |             |
-| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]]   | 1 Jan 2016  |            |             |
-| Tesla             |             |            |             |
-| GitHub            |             |            |             |
-| Google            |             |            |             |
-| Facebook          |             |            |             |
-| Archive.org       |             |            |             |
-| Jean d'Alembert   | 31 dec 2016 |            |             |
+*** Prof jobs
+
+| University | Department       | Job title            | app         | refs       |
+|------------+------------------+----------------------+-------------+------------|
+| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science | Tenure-track faculty | 1 Nov 2015  |            |
+| [[https://www.uvmjobs.com/postings/16972][Vermont]]    | Computer Science | Assistant Professor  | SUBMITTED   | ?          |
+| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math       | Assistant Professor  | SUBMITTED   | waiting.   |
+| [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | EECS             | Assistant Professor  | SUBMITTED   | 8 Jan 2016 |
+| [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][Vermont]]    | Statistics       | Assistant Professor  | 1 Dec 2015  |            |
+| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics    | Assistant Professor  | 1 Dec 2015  | 1 Dec 2015 |
+| [[https://www.uvmjobs.com/postings/17556][Vermont]]    | Electrical Eng.  | Assistant Professor  | 15 Dec 2015 |            |
+| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science | Assistant Professor  | 15 Dec 2015 |            |
+| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics       | Assistant Professor  | 15 Dec 2015 |            |
+| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science | Assistant Professor  | 1 Jan 2016  |            |
+| [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane]]     | Computer Science | Assistant Professor  | 1 Jan 2016  | 1 Jan 2016 |
+| [[http://main.hercjobs.org/jobs/6678395/][UCSF]]       | Quantitative Bio | Assistant Professor  | ???         |            |
+
+*** Industry jobs
+
+| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]] | 1 Jan 2016 |
+| Tesla           |            |
+| GitHub          |            |
+| Google          |            |
+| Facebook        |            |
+| Archive.org     |            |
+
+*** Grants
+
+| [[http://www.genomecanada.ca/en/portfolio/research/2015-bcb-competition.aspx][Bioinf grant]]    | 11 Dec 2015 |
+| Jean d'Alembert | 31 dec 2016 |
