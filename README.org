@@ -7,7 +7,7 @@
 | [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math        | Assistant Professor  | SUBMITTED   | waiting.   |
 | [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | Elec Eng Comp Sci | Assistant Professor  | SUBMITTED   | 8 Jan 2016 |
 | [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][Vermont]]    | Statistics        | Assistant Professor  | SUBMITTED   |            |
-| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics     | Assistant Professor  | 1 Dec 2015  | 1 Dec 2015 |
+| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics     | Assistant Professor  | SUBMITTED   | 1 Dec 2015 |
 | [[https://www.uvmjobs.com/postings/17556][Vermont]]    | Electrical Eng.   | Assistant Professor  | 15 Dec 2015 |            |
 | [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science  | Assistant Professor  | 15 Dec 2015 |            |
 | [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics        | Assistant Professor  | 15 Dec 2015 |            |
@@ -21,6 +21,7 @@
 | MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]] | 1 Jan 2016 |
 | [[https://www.teslamotors.com/en_CA/careers/job/autopilot-dataengineer-28103][Tesla]]           |            |
 | [[https://jobs.lever.co/github/9dcbd929-ca6b-4f00-83d3-93d081bfc2f2][GitHub]]          |            |
+| [[https://tas-yahoo.taleo.net/careersection/yahoo_us_cs/jobsearch.ftl?lang%3Den&ylng%3Den&yloc%3Dus&portal%3D40140430910&location%3D976440430910&jobfields%3D__Labs%252FSciences&jobfield%3D940453570&clear%3D1][Yahoo]]           |            |
 | Google          |            |
 | Facebook        |            |
 | [[https://archive.org/about/jobs.php#seniorpython][archive.org]]     |            |
