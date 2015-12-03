@@ -11,6 +11,7 @@
 | [[https://apol-recruit.ucsd.edu/apply/JPF00903][UCSD]]       | ECE               | Assistant Professor  | 10 Dec 2015 |            |
 | [[https://statistics.stanford.edu/news/stein-fellow-statistics-or-probability][Stanford]]   | Stats             | Stein Fellow         | 11 Dec 2015 |            |
 | [[https://statistics.stanford.edu/news/assistant-professor-statistics-or-probability][Stanford]]   | Stats             | Assistant Professor  | 11 Dec 2015 |            |
+| [[http://www.cs.usc.edu/about/faculty-jobs/#TT_Faculty][USC]]        | CS                | Assist & Research    | 15 Dec 2015 |            |
 | [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science  | Assistant Professor  | 15 Dec 2015 |            |
 | [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics        | Assistant Professor  | 15 Dec 2015 |            |
 | [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science  | Assistant Professor  | 1 Jan 2016  |            |
