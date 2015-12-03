@@ -17,12 +17,14 @@
 
 *** Industry jobs
 
-| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]] | 1 Jan 2016 |
-| Tesla           |            |
-| GitHub          |            |
-| Google          |            |
-| Facebook        |            |
-| Archive.org     |            |
+| Company         | Title                | Due date   |
+|-----------------+----------------------+------------|
+| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]] | Full-time researcher | 1 Jan 2016 |
+| Tesla           |                      |            |
+| GitHub          |                      |            |
+| Google          |                      |            |
+| Facebook        |                      |            |
+| Archive.org     |                      |            |
 
 *** Grants
 
