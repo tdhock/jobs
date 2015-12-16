@@ -1,4 +1,4 @@
-*** Prof jobs
+*** Prof jobs 
 
 | University | Department        | Job title            | app         | refs          |
 |------------+-------------------+----------------------+-------------+---------------|
@@ -14,13 +14,17 @@
 | [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science  | Assistant Professor  | SUBMITTED   |               |
 | [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics        | Assistant Professor  | SUBMITTED   |               |
 | [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science  | Assistant Professor  | SUBMITTED   |               |
-| [[http://www.pstat.ucsb.edu/employment.htm][UCSB]]       | Statistics        | Assistant Professor  | 1 Dec 2015  | 4 (teaching?) |
 | [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane]]     | Computer Science  | Assistant Professor  | 1 Jan 2016  | 1 Jan 2016    |
+
+*** Probably not going to apply to
+
+| University | Department        | Job title            | app         | refs          |
+|------------+-------------------+----------------------+-------------+---------------|
 | [[http://www-cs.stanford.edu/jobs/faculty-opening][Stanford]]   | Computer science  | Assistant Professor  | 12 Jan 2016 |               |
 | [[https://recruit.ucdavis.edu/apply/JPF00776][Davis]]      | Computer Science  | Assistant Professor  | 15 Jan 2016 |               |
 | [[https://www.cs.ubc.ca/our-department/employment/faculty-positions/tenure-track-research-positions][UBC]]        | Computer Science  | Assistant Professor  | 31 Jan 2016 |               |
 | [[https://aprecruit.ucsf.edu/apply/JPF00577][UCSF]]       | Quantitative Bio  | Assistant Professor  | 13 Feb 2016 |               |
-|------------+-------------------+----------------------+-------------+---------------|
+| [[http://www.pstat.ucsb.edu/employment.htm][UCSB]]       | Statistics        | Assistant Professor  | MISSED      | 4 (teaching?) |
 | [[http://facultyapplication.stanford.edu/][Stanford]]   | Quant Bio         | non-tenure prof      | ?           |               |
 | [[https://academicjobsonline.org/ajo/jobs/6044][Oregon]]     |                   |                      |             |               |
 | [[http://main.hercjobs.org/jobs/6678395/][UCSF]]       | Quantitative Bio  | Assistant Professor  | ???         |               |
