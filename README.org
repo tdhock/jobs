@@ -1,20 +1,20 @@
 *** Prof jobs 
 
-| University | Department        | Job title            | app         | refs          |
-|------------+-------------------+----------------------+-------------+---------------|
-| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science  | Tenure-track faculty | SUBMITTED   |               |
-| [[https://www.uvmjobs.com/postings/16972][Vermont]]    | Computer Science  | Assistant Professor  | SUBMITTED   | ?             |
-| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math        | Assistant Professor  | SUBMITTED   | waiting.      |
-| [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | Elec Eng Comp Sci | Assistant Professor  | SUBMITTED   | 8 Jan 2016    |
-| [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][Vermont]]    | Statistics        | Assistant Professor  | SUBMITTED   |               |
-| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics     | Assistant Professor  | SUBMITTED   | 1 Dec 2015    |
-| [[https://statistics.stanford.edu/news/stein-fellow-statistics-or-probability][Stanford]]   | Stats             | Stein Fellow         | [[https://academicjobsonline.org/ajo?status][SUBMITTED]]   |               |
-| [[https://statistics.stanford.edu/news/assistant-professor-statistics-or-probability][Stanford]]   | Stats             | Assistant Professor  | SUBMITTED   |               |
-| [[http://www.cs.usc.edu/about/faculty-jobs/#TT_Faculty][USC]]        | CS                | Assist & Research    | SUBMITTED   |               |
-| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science  | Assistant Professor  | SUBMITTED   |               |
-| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics        | Assistant Professor  | SUBMITTED   |               |
-| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science  | Assistant Professor  | SUBMITTED   |               |
-| [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane]]     | Computer Science  | Assistant Professor  | 1 Jan 2016  | 1 Jan 2016    |
+| University | Department        | Job title            | app       | refs       |
+|------------+-------------------+----------------------+-----------+------------|
+| [[https://recruit.apo.ucla.edu/apply/JPF01512][UCLA]]       | Computer Science  | Tenure-track faculty | SUBMITTED |            |
+| [[https://www.uvmjobs.com/postings/16972][Vermont]]    | Computer Science  | Assistant Professor  | SUBMITTED | ?          |
+| [[https://recruit.apo.ucla.edu/apply/JPF01740][UCLA]]       | Stats/Math        | Assistant Professor  | SUBMITTED | waiting.   |
+| [[http://www.eecs.berkeley.edu/AcadPers/RecruitAd.shtml][Berkeley]]   | Elec Eng Comp Sci | Assistant Professor  | SUBMITTED | 8 Jan 2016 |
+| [[http://www.cems.uvm.edu/facsearch/stat_tentrack.php][Vermont]]    | Statistics        | Assistant Professor  | SUBMITTED |            |
+| [[https://aprecruit.berkeley.edu/apply/JPF00843][Berkeley]]   | Biostatistics     | Assistant Professor  | SUBMITTED | 1 Dec 2015 |
+| [[https://statistics.stanford.edu/news/stein-fellow-statistics-or-probability][Stanford]]   | Stats             | Stein Fellow         | [[https://academicjobsonline.org/ajo?status][SUBMITTED]] |            |
+| [[https://statistics.stanford.edu/news/assistant-professor-statistics-or-probability][Stanford]]   | Stats             | Assistant Professor  | SUBMITTED |            |
+| [[http://www.cs.usc.edu/about/faculty-jobs/#TT_Faculty][USC]]        | CS                | Assist & Research    | SUBMITTED |            |
+| [[https://recruit.ap.ucsb.edu/apply/JPF00544][UCSB]]       | Computer Science  | Assistant Professor  | SUBMITTED |            |
+| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Statistics        | Assistant Professor  | SUBMITTED |            |
+| [[https://www.ics.uci.edu/employment/employ_faculty.php][UCI]]        | Computer Science  | Assistant Professor  | SUBMITTED |            |
+| [[http://tulane.edu/sse/cs/faculty/positions.cfm][Tulane]]     | Computer Science  | Assistant Professor  | SUBMITTED | 1 Jan 2016 |
 
 *** Probably not going to apply to
 
@@ -33,13 +33,13 @@
 
 *** Industry jobs
 
-| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]] | 1 Jan 2016 |
-| [[https://www.teslamotors.com/en_CA/careers/job/autopilot-dataengineer-28103][Tesla]]           |            |
-| [[https://jobs.lever.co/github/9dcbd929-ca6b-4f00-83d3-93d081bfc2f2][GitHub]]          |            |
-| [[https://tas-yahoo.taleo.net/careersection/yahoo_us_cs/jobsearch.ftl?lang%3Den&ylng%3Den&yloc%3Dus&portal%3D40140430910&location%3D976440430910&jobfields%3D__Labs%252FSciences&jobfield%3D940453570&clear%3D1][Yahoo]]           |            |
-| Google          |            |
-| Facebook        |            |
-| [[https://archive.org/about/jobs.php#seniorpython][archive.org]]     |            |
+| MS Research [[http://research.microsoft.com/en-US/groups/mlnyc/2016-researcher.aspx][NYC]] | SUBMITTED |
+| [[https://www.teslamotors.com/en_CA/careers/job/autopilot-dataengineer-28103][Tesla]]           |           |
+| [[https://jobs.lever.co/github/9dcbd929-ca6b-4f00-83d3-93d081bfc2f2][GitHub]]          |           |
+| [[https://tas-yahoo.taleo.net/careersection/yahoo_us_cs/jobsearch.ftl?lang%3Den&ylng%3Den&yloc%3Dus&portal%3D40140430910&location%3D976440430910&jobfields%3D__Labs%252FSciences&jobfield%3D940453570&clear%3D1][Yahoo]]           |           |
+| Google          |           |
+| Facebook        |           |
+| [[https://archive.org/about/jobs.php#seniorpython][archive.org]]     |           |
 
 *** Grants
 
